@@ -59,9 +59,12 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Parcel
     - [ ] "npm init"
     - [ ] Remove "main": "index.js"
+    - [ ] Later Replace With "default": "index.html"
     - [ ] Rewrite "test" to "start": "parcel index.html"
-    - [ ] Add "build": "parcel build index.html"
+    - [ ] Add "build": "parcel build index.html --dist-dir ./dist"
     - [ ] "npm i parcel -D"
+    - [ ] Run Local Host With CLI: "npm start"
+    - [ ] Build Deployment-Ready Files With CLI: "npm run build"
   - [ ] Console-Based Logic
   - [ ] UI Features
     - [ ] UI Sketch
