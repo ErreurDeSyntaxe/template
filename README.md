@@ -43,14 +43,12 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Objective
   - [ ] Project Statement
   - [ ] Notable Features
-  - [ ] Built With
 - [ ] Plan
   - [ ] User stories
   - [ ] Features
   - [ ] Flowchart
   - [ ] Architecture
-  - [ ] UI Design
-  - [ ] Responsive Design
+  - [ ] UI Design/Sketch
 - [ ] Development
   - [ ] Basic HTML
     - [ ] Title
@@ -93,13 +91,8 @@ Page Loads ->
 
 ### Architecture
 
-class App {  
--constructor() {  
---this.init();  
--}  
-}  
--init() {  
---console.log('Hello, World!);  
+class App {
+-greet()
 }
 
 ## Reflection
