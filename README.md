@@ -54,6 +54,7 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Title
     - [ ] Meta
     - [ ] Rough Structure
+    - [ ] Favicons
   - [ ] Parcel
     - [ ] "npm init"
     - [ ] Remove "main": "index.js"
