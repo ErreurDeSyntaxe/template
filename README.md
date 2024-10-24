@@ -65,6 +65,8 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Run Local Host With CLI: "npm start"
     - [ ] Build Deployment-Ready Files With CLI: "npm run build"
   - [ ] Console-Based Logic
+  - [ ] Fix bugs
+    - [ ] No Bugs Yet!
   - [ ] UI
     - [ ] Refined UI
     - [ ] Color Palette
@@ -75,8 +77,6 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Media Queries
     - [ ] Mobile Menu
   - [ ] Check Accessibility
-- [ ] Fix bugs
-  - [ ] No Bugs Yet!
 - [ ] Review README
 
 ### User Stories
