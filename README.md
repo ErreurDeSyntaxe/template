@@ -77,6 +77,9 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Media Queries
     - [ ] Mobile Menu
   - [ ] Check Accessibility
+  - [ ] Optimization
+    - [ ] Images
+    - [ ] Lighthouse
 - [ ] Review README
 
 ### User Stories
