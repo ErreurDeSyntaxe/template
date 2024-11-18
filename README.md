@@ -74,6 +74,7 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Individual Section Layout
     - [ ] Menu/Nav
   - [ ] Responsive Design
+    - [ ] Resposive Images (Art Direction)
     - [ ] Media Queries
     - [ ] Mobile Menu
   - [ ] Check Accessibility
