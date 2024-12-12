@@ -41,7 +41,6 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Title
   - [ ] Live Page Link
   - [ ] Objective
-  - [ ] Project Statement
   - [ ] Notable Features
 - [ ] Plan
   - [ ] User stories
