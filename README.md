@@ -39,7 +39,6 @@ The goal of the project is to learn xyz by building abc.
 
 - [ ] Rewrite the README
   - [ ] Title
-  - [ ] Live Page Link
   - [ ] Objective
   - [ ] Notable Features
 - [ ] Plan
@@ -102,6 +101,9 @@ The goal of the project is to learn xyz by building abc.
   - [ ] "git subtree push --prefix dist origin gh-pages" (redo)
   - [ ] "git checkout main" (redo)
 - [ ] Review README
+  - [ ] Live Page Link
+  - [ ] Built With
+  - [ ] Reflection
 
 ### User Stories
 
