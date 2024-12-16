@@ -7,7 +7,7 @@ A template for projects that may require Parcel
 ### Preview
 
 <div align='center'>
-    <img src='./README/project-preview.png'>
+    <img src='./README/project-preview.jpg'>
 </div>
 
 ### Live
