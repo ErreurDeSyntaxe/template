@@ -93,6 +93,7 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Images
     - [ ] Lighthouse
 - [ ] Deployment
+  - [ ] Change "development" to "production" in webpack.config.js (undo if need)
   - [ ] "git branch gh-pages" (one time only)
   - [ ] Commit everything (redo each time)
   - [ ] "git checkout gh-pages && git merge main --no-edit" (redo each time)
