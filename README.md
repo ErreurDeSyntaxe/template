@@ -92,6 +92,14 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Optimization
     - [ ] Images
     - [ ] Lighthouse
+- [ ] Deployment
+  - [ ] "git branch gh-pages" (one time only)
+  - [ ] Commit everything (redo each time)
+  - [ ] "git checkout gh-pages && git merge main --no-edit" (redo each time)
+  - [ ] "npx webpack" (redo)
+  - [ ] 'git add dist -f && git commit -m "Deployment commit"' (redo)
+  - [ ] "git subtree push --prefix dist origin gh-pages" (redo)
+  - [ ] "git checkout main" (redo)
 - [ ] Review README
 
 ### User Stories
