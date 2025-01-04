@@ -74,6 +74,11 @@ The goal of the project is to learn xyz by building abc.
     - [ ] "npm install --save-dev webpack-dev-server"
     - [ ] "npx webpack serve"
     - [ ] Kill the server with ^C
+  - [ ] Vitest
+    - [ ] "npm install --save-dev vitest"
+    - [ ] package.json scripts: '"test": "vitest --run --reporter verbose"'
+    - [ ] package.json scripts: '"test:watch": "vitest"'
+    - [ ] "npm test" OR "npm run test:watch"
   - [ ] Console-Based Logic
   - [ ] Fix bugs
     - [ ] No Bugs Yet!
