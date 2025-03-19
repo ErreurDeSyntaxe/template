@@ -67,3 +67,16 @@ body {
   --color-gray-dark-2: #777;
   --color-gray-dark-3: #999;
 }
+
+/* BELOW 1200px */
+@media only screen and (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+/* BELOW 900px */
+@media only screen and (max-width: 56.25em) {
+  html {
+    font-size: 50%;
+  }
+}
