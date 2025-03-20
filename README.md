@@ -1,6 +1,6 @@
 # Simple Template
 
-A template for projects that may require Parcel
+A template for projects
 
 ## About the Project
 
@@ -27,12 +27,12 @@ The goal of the project is to learn xyz by building abc.
 
 ### Built With
 
-<img src='./README/html5-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/css3-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/javascript-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/vitest.svg' style='width:40px; height: 40px' >
-<!-- <img src='./README/webpack-logo.svg' style='width:40px; height: 40px' > -->
-<!-- <img src='./README/parcel.ico' style='width:40px; height: 40px' > -->
+<img src='./README/html-logo.svg' style='width:40px; height: 40px' >
+<!-- <img src='./README/css-logo.svg' style='width:40px; height: 40px' > -->
+<img src='./README/sass-logo.svg' style='width:40px; height: 40px' >
+<img src='./README/js-logo.svg' style='width:40px; height: 40px' >
+<!-- <img src='./README/vitest.svg' style='width:40px; height: 40px' > -->
+<img src='./README/parcel-logo.svg' style='width:40px; height: 40px' >
 
 ## Development
 
@@ -55,31 +55,14 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Rough Structure
     - [ ] Favicons
   - [ ] Parcel
-    - [ ] "npm init"
-    - [ ] Remove "main": "index.js"
-    - [ ] Later Replace With "default": "index.html"
-    - [ ] Rewrite "test" to "start": "parcel index.html"
-    - [ ] Add "build": "parcel build index.html --dist-dir ./dist"
-    - [ ] "npm i parcel -D"
-    - [ ] Run Local Host With CLI: "npm start"
-    - [ ] Build Deployment-Ready Files With CLI: "npm run build"
-  - [ ] Webpack
-    - [ ] "npm init"
-    - [ ] "npm install --save-dev webpack webpack-cli"
-    - [ ] "npm install --save-dev html-webpack-plugin"
-    - [ ] Remove script tag
-    - [ ] "npm install --save-dev style-loader css-loader"
-    - [ ] Import the CSS file into a JS file
-    - [ ] "npm install --save-dev html-loader"
-    - [ ] Follow the steps in "img.js"
-    - [ ] "npm install --save-dev webpack-dev-server"
-    - [ ] "npx webpack serve"
-    - [ ] Kill the server with ^C
+    - [ ] Initialize
+    - [ ] Install Parcel
+    - [ ] Add Script "dev": "parcel ./src/index.html"
+    - [ ] Add Script "build": "parcel build ./src/index.html"
   - [ ] Vitest
-    - [ ] "npm install --save-dev vitest"
-    - [ ] package.json scripts: "test": "vitest --run --reporter verbose"
-    - [ ] package.json scripts: "test:watch": "vitest"
-    - [ ] "npm test" OR "npm run test:watch"
+    - [ ] "npm install vitest -D"
+    - [ ] Add Script "test": "vitest --run --reporter verbose"
+    - [ ] Add Script "test:watch": "vitest"
   - [ ] Console-Based Logic
   - [ ] Fix bugs
     - [ ] No Bugs Yet!
@@ -98,7 +81,6 @@ The goal of the project is to learn xyz by building abc.
     - [ ] Images
     - [ ] Lighthouse
 - [ ] Deployment
-  - [ ] Change "development" to "production" in webpack.config.js (undo if need)
   - [ ] "git branch gh-pages" (one time only)
   - [ ] Commit everything (redo each time)
   - [ ] "git checkout gh-pages && git merge main --no-edit" (redo each time)
