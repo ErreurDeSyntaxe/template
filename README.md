@@ -59,6 +59,7 @@ The goal of the project is to learn xyz by building abc.
   - [ ] Parcel
     - [ ] Initialize
     - [ ] Install Parcel
+    - [ ] Install @parcel/optimizer-terser @parcel/optimizer-cssnano @parcel/optimizer-htmlnano
     - [ ] Add Script "dev": "parcel ./src/index.html"
     - [ ] Add Script "build": "parcel build ./src/index.html"
   - [ ] Vitest
