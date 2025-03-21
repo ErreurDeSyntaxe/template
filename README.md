@@ -27,12 +27,14 @@ The goal of the project is to learn xyz by building abc.
 
 ### Built With
 
-<img src='./README/html-logo.svg' style='width:40px; height: 40px' >
-<!-- <img src='./README/css-logo.svg' style='width:40px; height: 40px' > -->
-<img src='./README/sass-logo.svg' style='width:40px; height: 40px' >
-<img src='./README/js-logo.svg' style='width:40px; height: 40px' >
-<!-- <img src='./README/vitest.svg' style='width:40px; height: 40px' > -->
-<img src='./README/parcel-logo.svg' style='width:40px; height: 40px' >
+<p align="left">
+  <img src="./README/html-logo.svg" alt="HTML" width="40" height="40">
+  <!-- <img src="./README/css-logo.svg" alt="CSS" width="40" height="40"> -->
+  <img src="./README/sass-logo.svg" alt="Sass" width="40" height="40">
+  <img src="./README/js-logo.svg" alt="JavaScript" width="40" height="40">
+  <!-- <img src="./README/vitest.svg" alt="Vitest" width="40" height="40"> -->
+  <img src="./README/parcel-logo.svg" alt="Parcel" width="40" height="40">
+</p>
 
 ## Development
 
