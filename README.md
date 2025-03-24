@@ -28,12 +28,14 @@ The goal of the project is to learn xyz by building abc.
 ### Built With
 
 <p align="left">
-  <img src="./README/html-logo.svg" alt="HTML" width="40" height="40">
-  <!-- <img src="./README/css-logo.svg" alt="CSS" width="40" height="40"> -->
-  <img src="./README/sass-logo.svg" alt="Sass" width="40" height="40">
-  <img src="./README/js-logo.svg" alt="JavaScript" width="40" height="40">
-  <!-- <img src="./README/vitest.svg" alt="Vitest" width="40" height="40"> -->
-  <img src="./README/parcel-logo.svg" alt="Parcel" width="40" height="40">
+  <img src="./README/html-logo.svg" alt="HTML Logo" width="40" height="40">
+  <!-- <img src="./README/css-logo.svg" alt="CSS Logo" width="40" height="40"> -->
+  <img src="./README/sass-logo.svg" alt="Sass Logo" width="40" height="40">
+  <img src="./README/js-logo.svg" alt="JavaScript Logo" width="40" height="40">
+  <!-- <img src="./README/react-logo.svg" alt="React Logo" width="40" height="40"> -->
+  <!-- <img src="./README/vite-logo.svg" alt="Vite Logo" width="40" height="40"> -->
+  <!-- <img src="./README/vitest.svg" alt="Vitest Logo" width="40" height="40"> -->
+  <img src="./README/parcel-logo.svg" alt="Parcel Logo" width="40" height="40">
 </p>
 
 ## Development
