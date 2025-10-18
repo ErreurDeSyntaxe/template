@@ -52,6 +52,7 @@ This section serves as both a checklist and roadmap.
 
 - [ ] Rewrite this README
   - [ ] Title
+  - [ ] Description
   - [ ] Objective
   - [ ] Notable Features
 
@@ -103,8 +104,12 @@ This section serves as both a checklist and roadmap.
 #### 🪞 Final Review
 
 - [ ] Update Live Page Link
+- [ ] Update Project Preview Image
 - [ ] Confirm Built With section
 - [ ] Add Reflection
+- [ ] Remove User Stories
+- [ ] Remove Flowchart
+- [ ] Remove Development
 
 ---
 
