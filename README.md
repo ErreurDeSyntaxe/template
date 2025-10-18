@@ -1,31 +1,33 @@
-# Simple Template
+# 🧩 Simple Template
 
-A template for projects
+A lightweight **project starter and archive** — perfect for quick experiments, prototypes, or reference setups.
 
-## About the Project
+---
 
-### Preview
+## 📖 About the Project
+
+### 🖼️ Preview
 
 <div align='center'>
-    <img src='./README/project-preview.jpg'>
+  <img src='./README/project-preview.jpg' alt='Project preview'>
 </div>
 
-### Live
+### 🌐 Live Demo
 
-<a href='http://google.com/'>Google</a>
+[Visit Project](http://google.com/)
 
-### Objective
+### 🎯 Objective
 
-The goal of the project is to learn xyz by building abc.
+This project’s goal is to **learn xyz by building abc**.
 
-### Notable Features
+### ✨ Notable Features
 
 - Add something
 - Edit something
 - Remove something
-- Allow users to complicate dev's job
+- Allow users to complicate the dev’s job (just as nature intended)
 
-### Built With
+### 🧱 Built With
 
 <p align="left">
   <img src="./README/html-logo.svg" alt="HTML Logo" width="40" height="40">
@@ -38,90 +40,98 @@ The goal of the project is to learn xyz by building abc.
   <img src="./README/parcel-logo.svg" alt="Parcel Logo" width="40" height="40">
 </p>
 
-## Development
+---
 
-### To Do
+## ⚙️ Development
 
-- [ ] Rewrite the README
+This section serves as both a checklist and roadmap.
+
+### 🗒️ To-Do Overview
+
+#### 🧾 Documentation
+
+- [ ] Rewrite this README
   - [ ] Title
   - [ ] Objective
   - [ ] Notable Features
-- [ ] Plan
-  - [ ] User stories
-  - [ ] Features
-  - [ ] Flowchart
-  - [ ] Architecture
-  - [ ] UI Design/Sketch
-- [ ] Development
-  - [ ] Basic HTML
-    - [ ] Title
-    - [ ] Meta
-    - [ ] Rough Structure
-    - [ ] Favicons
-  - [ ] Parcel
-    - [ ] Initialize
-    - [ ] Install Parcel
-    - [ ] Install @parcel/optimizer-terser @parcel/optimizer-cssnano @parcel/optimizer-htmlnano
-    - [ ] Add Script "dev": "parcel ./src/index.html"
-    - [ ] Add Script "build": "parcel build ./src/index.html"
-  - [ ] Vitest
-    - [ ] "npm install vitest -D"
-    - [ ] Add Script "test": "vitest --run --reporter verbose"
-    - [ ] Add Script "test:watch": "vitest"
-  - [ ] Console-Based Logic
-  - [ ] Fix bugs
-    - [ ] No Bugs Yet!
-  - [ ] UI
-    - [ ] Refined UI
-    - [ ] Color Palette
-    - [ ] Overall Layout
-    - [ ] Individual Section Layout
-    - [ ] Menu/Nav
-  - [ ] Responsive Design
-    - [ ] Resposive Images (Art Direction)
-    - [ ] Media Queries
-    - [ ] Mobile Menu
-  - [ ] Check Accessibility
-  - [ ] Optimization
-    - [ ] Images
-    - [ ] Lighthouse
-- [ ] Deployment
-  - [ ] "git branch gh-pages" (one time only)
-  - [ ] Commit everything (redo each time)
-  - [ ] "git checkout gh-pages && git merge main --no-edit" (redo each time)
-  - [ ] "npx webpack" (redo)
-  - [ ] 'git add dist -f && git commit -m "Deployment commit"' (redo)
-  - [ ] "git subtree push --prefix dist origin gh-pages" (redo)
-  - [ ] "git checkout main" (redo)
-- [ ] Review README
-  - [ ] Live Page Link
-  - [ ] Built With
-  - [ ] Reflection
 
-### User Stories
+#### 🧠 Planning
+
+- [ ] User stories
+- [ ] Features
+- [ ] Flowchart
+- [ ] Architecture
+- [ ] UI Design / Sketch
+
+#### 💻 Development Steps
+
+- [ ] **Basic HTML**
+  - [ ] Title & Meta
+  - [ ] Structure
+  - [ ] Favicons
+- [ ] **Parcel Setup**
+  - [ ] Initialize project
+  - [ ] Install Parcel (`npm i -D parcel`)
+  - [ ] Install optimizers (`npm i -D @parcel/optimizer-terser @parcel/optimizer-cssnano @parcel/optimizer-htmlnano`)
+  - [ ] Add scripts
+- [ ] **Vitest Setup**
+  - [ ] Install Vitest (`npm i vitest -D`)
+  - [ ] Add `"test": "vitest --run --reporter verbose"` and `"test:watch": "vitest"` scripts
+- [ ] **Logic & UI**
+  - [ ] Console-based logic
+  - [ ] Refined UI & layout
+  - [ ] Menu / Navigation
+- [ ] **Responsive Design**
+  - [ ] Responsive images (Art direction)
+  - [ ] Media queries
+  - [ ] Mobile menu
+- [ ] **Accessibility & Optimization**
+  - [ ] Check accessibility
+  - [ ] Optimize images
+  - [ ] Run Lighthouse
+
+#### 🚀 Deployment (Git + GitHub Pages)
+
+- [ ] `git branch gh-pages` _(once)_
+- [ ] Commit everything
+- [ ] `git checkout gh-pages && git merge main --no-edit`
+- [ ] `npx webpack`
+- [ ] `git add dist -f && git commit -m "Deployment commit"`
+- [ ] `git subtree push --prefix dist origin gh-pages`
+- [ ] `git checkout main`
+
+#### 🪞 Final Review
+
+- [ ] Update Live Page Link
+- [ ] Confirm Built With section
+- [ ] Add Reflection
+
+---
+
+## 👥 User Stories
 
 - As a user, I want...
 
-### Features
+---
+
+## 🧩 Features
 
 - Users can...
 
-### Flowchart
+---
 
-Page Loads ->
+## 🧭 Flowchart
 
-### Architecture
+Page Loads → ...
 
+---
+
+## 🏗️ Architecture
+
+```js
 class App {
--greet()
+  greet() {
+    console.log('Hello!');
+  }
 }
-
-## Reflection
-
-### Lessons & Difficulties
-
-Some lessons learned along the way
-
-### Diary
-
-Some thoughts regarding the project
+```
