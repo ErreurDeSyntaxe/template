@@ -95,13 +95,12 @@ This section serves as both a checklist and roadmap.
 
 #### 🚀 Deployment (Git + GitHub Pages)
 
-- [ ] `git branch gh-pages` _(once)_
-- [ ] Commit everything
-- [ ] `git checkout gh-pages && git merge main --no-edit`
-- [ ] `npx webpack`
-- [ ] `git add dist -f && git commit -m "Deployment commit"`
-- [ ] `git subtree push --prefix dist origin gh-pages`
-- [ ] `git checkout main`
+- [ ] `npm install --save-dev gh-pages`
+- [ ] Add `"homepage": "https://erreurdesyntaxe.github.io/<repo>/"`
+- [ ] Add `"deploy": "gh-pages -d dist"`
+- [ ] `npm run build`
+- [ ] Commit all changes on main
+- [ ] `npm run deploy`
 
 #### 🪞 Final Review
 
