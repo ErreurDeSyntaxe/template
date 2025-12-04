@@ -38,8 +38,12 @@ This project’s goal is to **learn xyz by building abc**.
   <img src="./README/redux-logo.svg" alt="React Logo" width="40" height="40">
   <img src="./README/react-router-logo.svg" alt="React Logo" width="40" height="40">
   <img src="./README/react-testing-library-logo.svg" alt="React Logo" width="40" height="40">
+  <img src="./README/nextjs-logo.svg" alt="Next JS Logo" width="40" height="40">
   <img src="./README/vite-logo.svg" alt="Vite Logo" width="40" height="40">
   <img src="./README/vitest-logo.svg" alt="Vitest Logo" width="40" height="40">
+  <img src="./README/nodejs-logo.svg" alt="Node JS Logo" width="40" height="40">
+  <img src="./README/expressjs-logo.svg" alt="Express JS Logo" width="40" height="40">
+  <img src="./README/mongodb-logo.svg" alt="MongoDB Logo" width="40" height="40">
 
 </p>
 
